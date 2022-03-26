@@ -8,5 +8,6 @@ npm install
 npm start
 
 BE: 
-npm start
+npm install
 cp .env.example .env
+npm start
